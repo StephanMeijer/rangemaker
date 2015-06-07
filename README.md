@@ -1,9 +1,9 @@
-## RangeMaker
+# RangeMaker
 See [this page](http://phpjs.org/functions/range/) for documentation.
 
 **Please note**: I am **NOT** the author of this code!
 
-# License
+## License
 **MIT-Licensed**
 
 See `LICENSE.txt` for more information.
