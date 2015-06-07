@@ -1,0 +1,15 @@
+{
+  "name": "rangemaker",
+  "version": "1.0.0",
+  "description": "Make ranges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "range",
+    "phpjs"
+  ],
+  "author": "Kevin van Zonneveld",
+  "license": "MIT"
+}
